@@ -533,15 +533,3 @@ PRODUCT_COPY_FILES += \
 	vendor/lge/bullhead/proprietary/lib64/hw/sound_trigger.primary.msm8992.so:vendor/lib64/hw/sound_trigger.primary.msm8992.so \
 	vendor/lge/bullhead/proprietary/lib64/hw/vulkan.msm8992.so:vendor/lib64/hw/vulkan.msm8992.so \
 	vendor/lge/bullhead/proprietary/lib64/mediadrm/libwvdrmengine.so:vendor/lib64/mediadrm/libwvdrmengine.so \
-	vendor/oneplus/oneplus3/proprietary/vendor/lib/libchromaflash.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromaflash.so \
-	vendor/oneplus/oneplus3/proprietary/vendor/lib/libmmcamera_chromaflash_lib.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_chromaflash_lib.so \
-	vendor/oneplus/oneplus3/proprietary/vendor/lib/libmmcamera_llvd.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_llvd.so \
-	vendor/oneplus/oneplus3/proprietary/vendor/lib/libmmcamera_optizoom_lib.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_optizoom_lib.so \
-	vendor/oneplus/oneplus3/proprietary/vendor/lib/libmmcamera_stillmore_lib.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_stillmore_lib.so \
-    vendor/oneplus/oneplus3/proprietary/vendor/lib/libmmcamera_trueportrait_lib.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_trueportrait_lib.so \
-    vendor/oneplus/oneplus3/proprietary/vendor/lib/libmmcamera_tuning.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_tuning.so \
-    vendor/oneplus/oneplus3/proprietary/vendor/lib/libmmcamera_tuning_lookup.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_tuning_lookup.so \
-    vendor/oneplus/oneplus3/proprietary/vendor/lib/libmmcamera_ubifocus_lib.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_ubifocus_lib.so \
-    vendor/oneplus/oneplus3/proprietary/vendor/lib/liboptizoom.so:$(TARGET_COPY_OUT_VENDOR)/lib/liboptizoom.so \
-    vendor/oneplus/oneplus3/proprietary/vendor/lib/libseemore.so:$(TARGET_COPY_OUT_VENDOR)/lib/libseemore.so \
-    vendor/oneplus/oneplus3/proprietary/vendor/lib/libubifocus.so:$(TARGET_COPY_OUT_VENDOR)/lib/libubifocus.so \
